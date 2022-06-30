@@ -1,7 +1,7 @@
 
 <img width="60" align="left" src="https://i.pinimg.com/originals/8f/2b/41/8f2b4193736d49ae5a9cf30099ff3b4d.png">
 <h1>Hemlooo 👋</h1>
-🔭 I’m Joshua Kenan Cinches, a passionate programmer from the Philippines <img src="https://seeklogo.com/images/P/Philippines_Flag-logo-9232121FEA-seeklogo.com.png" width="25">, intending to contribute in the frontlines of tech.
+🔭 I’m Joshua Kenan Cinches, a passionate programmer from the Philippines intending to contribute in the frontlines of tech. <img src="https://seeklogo.com/images/P/Philippines_Flag-logo-9232121FEA-seeklogo.com.png" width="25">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joshuakenan.cinches)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/koykou5145)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kenanAST)
