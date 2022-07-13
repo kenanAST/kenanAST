@@ -1,6 +1,6 @@
 
 <img width="60" align="left" src="https://i.pinimg.com/originals/8f/2b/41/8f2b4193736d49ae5a9cf30099ff3b4d.png">
-<h1>Hemlooo 👋</h1>
+<h1>Hemlooo</h1>
 🔭 I’m Joshua Kenan Cinches, a passionate programmer from the Philippines intending to contribute in the frontlines of tech. <img src="https://seeklogo.com/images/P/Philippines_Flag-logo-9232121FEA-seeklogo.com.png" width="25">
 
 ## 🌐 Socials:
