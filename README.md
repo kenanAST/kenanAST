@@ -1,5 +1,4 @@
 
-<img width="60" align="left" src="https://i.pinimg.com/originals/8f/2b/41/8f2b4193736d49ae5a9cf30099ff3b4d.png">
 <h1>I make stuff.</h1>
 
 ## 🌐 Socials:
