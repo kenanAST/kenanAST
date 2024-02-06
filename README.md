@@ -1,5 +1,5 @@
 
-  <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
+  <img align="right" width="350" src="./himouto-umaru-chan-umaru.gif"/>
 
   <div align="left">
     <ul>
