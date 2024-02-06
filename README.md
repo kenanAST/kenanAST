@@ -1,7 +1,7 @@
 
   <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
 
-  <div align="center">
+  <div align="left">
     <ul>
       <li>Pursuing a bachelor's degree in Computer Engineering.</li>
       <li>I'm studying JavaScript and NeetCode right now.</li>
