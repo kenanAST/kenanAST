@@ -2,7 +2,6 @@
   <img align="left" src="./himouto-umaru-chan.gif"/>
   
   <p align="right">
-  - ./himouto-umaru-chan-umaru.gif
     
   - Pursuing a bachelor's degree in computer science.
     
