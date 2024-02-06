@@ -1,9 +1,7 @@
 
   <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
-
-  <div style="margin-left: 100px;">
   
-  <p align="right">
+  <p align="right" style="margin-left: 2000px;">
     
   - Pursuing a bachelor's degree in computer science.
     
