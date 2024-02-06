@@ -4,7 +4,9 @@
   <p align="right">
     
   - Pursuing a bachelor's degree in computer science.
+    
   - I'm studying JavaScript and NeetCode right now.
+    
   - Enjoys building cool and unhinged stuff.
   </div>
 <br/>
