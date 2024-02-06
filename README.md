@@ -1,5 +1,4 @@
 
-  <img align="left" src="./himouto-umaru-chan-umaru.gif" width="300" alt="profile" border="0"/>
   <img align="left" height:75%; width:75; src="./himouto-umaru-chan-umaru.gif">
 
   <p align="right">
