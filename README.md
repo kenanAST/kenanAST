@@ -2,13 +2,10 @@
   <img align="left" src="./himouto-umaru-chan-umaru.gif" width="300" alt="profile" border="0"/>
 
 
-  <div alight="right">
-      - Pursuing a bachelor's degree in computer science.
-      - I'm studying JavaScript and NeetCode right now.
-      - Enjoys building cool and unhinged stuff.
-  </div>
-<br/>
-<br/>
+  - Pursuing a bachelor's degree in computer science.
+  - I'm studying JavaScript and NeetCode right now.
+  - Enjoys building cool and unhinged stuff.
+      
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/koykou5145) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keinan_dev) 
