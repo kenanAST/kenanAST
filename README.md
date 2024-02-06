@@ -1,5 +1,5 @@
 
-<img align="left" height:75%; width:75; src="https://media1.tenor.com/m/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif">
+<img align="left" height:75%; width:75; src="https://media1.tenor.com/m/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" />
 
 <div alight="right">
   <ul>
