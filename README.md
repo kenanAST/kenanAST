@@ -11,7 +11,7 @@
     </ul>
   </div>
     
-<br><br><br>
+<br><br><br>><br><br>
 <h2 align="center"> Connect with me </h2>
 
 [![Reddit](https://img.icons8.com/?size=160&id=1Rt8tTnKGPER&format=png)](https://reddit.com/user/koykou5145) [![X](https://img.icons8.com/?size=160&id=64156&format=png)
