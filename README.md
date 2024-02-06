@@ -1,8 +1,9 @@
 
   <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
-      - Pursuing a bachelor's degree in Computer Engineering.
-      - I'm studying JavaScript and NeetCode right now.
-      - Enjoys building cool and unhinged stuff.
+  
+        - Pursuing a bachelor's degree in Computer Engineering.
+        - I'm studying JavaScript and NeetCode right now.
+        - Enjoys building cool and unhinged stuff.
     
 <br/>
 <br/>
