@@ -1,6 +1,5 @@
 
-  <img align="left" src="./himouto-umaru-chan-umaru.gif" width="300" alt="profile" border="0"/>
-
+  <img src="./himouto-umaru-chan-umaru.gif" width="300" alt="profile" border="0"/>
 
   - Pursuing a bachelor's degree in computer science.
   - I'm studying JavaScript and NeetCode right now.
