@@ -14,6 +14,8 @@
   </div>
 </div>
 
+<br />
+
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/koykou5145) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keinan_dev) 
 
