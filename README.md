@@ -6,8 +6,8 @@
   <div align="left">
     <ul>
       <li>Pursuing a bachelor's degree in Computer Engineering.</li>
-      <li>I'm studying JavaScript and NeetCode right now.</li>
-      <li>Enjoys building cool and unhinged stuff.</li>
+      <li>I'm currently studying Web Development and System Design right now.</li>
+      <li>Enjoys building stuff.</li>
     </ul>
   </div>
     
