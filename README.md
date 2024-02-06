@@ -1,7 +1,8 @@
 
-  <img align="left" height:75%; width:75; src="./himouto-umaru-chan-umaru.gif">
+  <img align="left" height:75%; width:75; src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
   
   <p align="right">
+  - ./himouto-umaru-chan-umaru.gif
     
   - Pursuing a bachelor's degree in computer science.
     
