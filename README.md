@@ -15,7 +15,7 @@
 
 <h2 align="center"> Connect with me </h2>
 
-<div class="center">
+<div align="center">
   <a href="https://reddit.com/user/koykou5145"><img src="https://img.icons8.com/?size=160&id=1Rt8tTnKGPER&format=png" alt="Reddit"></a>
   <a href="https://x.com/@keinan_dev"><img src="https://img.icons8.com/?size=160&id=64156&format=png" alt="X"></a>
   <a href="https://www.facebook.com/profile.php?id=100091615135405"><img src="https://img.icons8.com/?size=160&id=114216&format=png" alt="Facebook"></a>
