@@ -1,3 +1,4 @@
+<br><br><br>
 
   <img align="right" width="400" src="./himouto-umaru-chan-umaru.gif"/>
 
@@ -9,9 +10,7 @@
     </ul>
   </div>
     
-<br/>
-<br/>
-<br/>
+<br><br><br>
 
 
 ## 🌐 Socials:
