@@ -2,7 +2,7 @@
 
   <img align="right" width="400" src="./himouto-umaru-chan-umaru.gif"/>
 
-  <br>
+  <br><br>
   <div align="left">
     <ul>
       <li>Pursuing a bachelor's degree in Computer Engineering.</li>
