@@ -1,4 +1,13 @@
 
+<img align="left" height:75%; width:75; src="https://media1.tenor.com/m/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif">
+
+<div alight="right">
+  <ul>
+    <li>Pursuing a bachelor's degree in computer science.</li>
+    <li>I'm studying JavaScript and NeetCode right now.</li>
+    <li>Enjoys building cool and unhinged stuff.</li>
+  </ul>
+</div>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/koykou5145) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keinan_dev) 
