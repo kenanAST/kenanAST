@@ -1,12 +1,17 @@
 
-<img align="left" src="./himouto-umaru-chan-umaru.gif" width="20%" alt="profile" border="0"/>
+<div>
+  <style>
+    
+  </style>
+  <img align="left" src="./himouto-umaru-chan-umaru.gif" width=400 alt="profile" border="0"/>
 
-<div alight="right">
-  <ul>
-    <li>Pursuing a bachelor's degree in computer science.</li>
-    <li>I'm studying JavaScript and NeetCode right now.</li>
-    <li>Enjoys building cool and unhinged stuff.</li>
-  </ul>
+  <div alight="right">
+    <ul>
+      <li>Pursuing a bachelor's degree in computer science.</li>
+      <li>I'm studying JavaScript and NeetCode right now.</li>
+      <li>Enjoys building cool and unhinged stuff.</li>
+    </ul>
+  </div>
 </div>
 
 ## 🌐 Socials:
