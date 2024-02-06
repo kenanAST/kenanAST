@@ -1,4 +1,3 @@
-<br><br><br>
 
   <img align="right" width="400" src="./himouto-umaru-chan-umaru.gif"/>
 
