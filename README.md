@@ -1,6 +1,6 @@
 
   <img align="left" src="./himouto-umaru-chan-umaru.gif" width="300" alt="profile" border="0"/>
-  <img align="left" height:75%; width:75; src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
+  <img align="left" height:75%; width:75; src="./himouto-umaru-chan-umaru.gif">
 
   <p align="right">
     
