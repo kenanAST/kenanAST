@@ -1,5 +1,7 @@
 
   <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
+
+  <div style="margin-left: 100px;">
   
   <p align="right">
     
