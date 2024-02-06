@@ -43,21 +43,24 @@
 
 <h2 align="center"> GitHub Stats </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kenanAST&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenanAST&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
   
-
 
 <h2 align="center"> GitHub Trophies </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=kenanast&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kenanast&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
   
 
 <h3 align="center"> Random Dev Quote </h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
