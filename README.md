@@ -1,9 +1,5 @@
 
-<div>
-  <style>
-    
-  </style>
-  <img align="left" src="./himouto-umaru-chan-umaru.gif" width=400 alt="profile" border="0"/>
+  <img align="left" src="./himouto-umaru-chan-umaru.gif" width="200" alt="profile" border="0"/>
 
   <div alight="right">
     <ul>
@@ -12,7 +8,6 @@
       <li>Enjoys building cool and unhinged stuff.</li>
     </ul>
   </div>
-</div>
 
 <br />
 
