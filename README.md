@@ -1,9 +1,7 @@
 
   <img align="left" width="350" src="./himouto-umaru-chan-umaru.gif"/>
-  
-  <p align="left" style="margin-left: 200px;"> Pursuing a bachelor's degree in computer science. </p>
-    
-  - Pursuing a bachelor's degree in computer science.
+      
+  - Pursuing a bachelor's degree in Computer Engineering.
     
   - I'm studying JavaScript and NeetCode right now.
     
