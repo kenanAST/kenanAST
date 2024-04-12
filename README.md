@@ -40,27 +40,3 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
 </div>
-
-<h2 align="center"> GitHub Stats </h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenanAST&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanAST&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-  
-
-<h2 align="center"> GitHub Trophies </h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenanast&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-  
-
-<h3 align="center"> Random Dev Quote </h3>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
