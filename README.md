@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F219-fairy-tail-hd-wallpapers--324611085623331864%2F&psig=AOvVaw1IG-YJIq1kupFO6ugpzTa6&ust=1717891435396000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCu7bfayoYDFQAAAAAdAAAAABAE)');]{x0000}$}
 ```
 
 
